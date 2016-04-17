@@ -2,8 +2,15 @@
 Full uFrame has now been completely open sourced.  Use uFrame Architect, and ECS to build awesome games/apps or create your own uFrame spinned framework, the choice is up to you.
 
 ## MVVM Users
-The current version of MVVM needs to be ported to the 2.0 engine.   ECS is what spawned the 2.0 engine and broke away from some backwards compatability issues that was hindering the engine from growing to what we wanted the product to eventually be.  If you are interested in assisting the port of the uFrame MVVM framework into uFrame ECS you are welcome to do so, but I would highly recommend that you just extend ECS with some MVVM type features.  
+The current version of MVVM needs to be ported to the 2.0 engine.  But instead of porting a seperate framework, you might as well just extends uFrame ECS to have some MVVM like features, considering ECS has the same kernel as well as UniRX included with it.  Simply a View Class and a binding layer would do the trick.
 
-## Things to do
-Documentation, Documentation, Documentation... This is completely key, and especially the internal editor stuff and using architect.
-Port MVVM? or Extend ECS? the choose is yours.
+## Create your own
+Here's some idea of what it would be really cool to see the community come up with that we have never really shared.
+- Hierarchical State Machines
+- Menu Flow similar to Microsoft Blends pageflow.
+- Other frameworks such as strangeIOC, Entitas... etc
+
+## Documentation, Documentation, Documentation
+If anyone is interested in documenting uFrame please contribute here, it needs all the help it can get, and architect/uFrame Editor stuff desperately needs some documentation attention.
+
+https://github.com/InvertGames/uFrame.Documentation
