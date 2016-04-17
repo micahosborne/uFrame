@@ -1,0 +1,8 @@
+{
+	"Identifier":"9413fba9-3810-4681-9ae4-40debf13b08d"	, 
+	"Time":"11/28/2015 1:25:52 AM"	, 
+	"Group":12552	, 
+	"DataRecordId":"7f0b6dd5-bf26-4fe0-8118-03574a819705"	, 
+	"Type":2	, 
+	"RecordType":"Invert.Core.GraphDesigner.uFrameDatabaseConfig, Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"	, 
+	"Data":"{\r\n\t\"Identifier\":\"7f0b6dd5-bf26-4fe0-8118-03574a819705\"\t, \r\n\t\"CodeOutputPath\":\"Assets/Code\"\t, \r\n\t\"Namespace\":\"WindowFlow\"\t, \r\n\t\"MajorVersion\":1\t, \r\n\t\"MinorVersion\":0\t, \r\n\t\"BuildVersion\":0\t, \r\n\t\"BuildNumber\":0}\r\n"}
